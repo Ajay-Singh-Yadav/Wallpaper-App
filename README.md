@@ -13,7 +13,7 @@ Expo CLI (npm install -g expo-cli)
 An Expo account (for running the app on your device)
 
 Splash Screen:-
-![Screenshot_20240904-045617]
+![Uploading Screenshot_20240904-045617.png…]()
 
 Home Screen:-
 
